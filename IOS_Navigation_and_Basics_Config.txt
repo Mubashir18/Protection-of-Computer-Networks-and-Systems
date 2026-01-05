@@ -1,0 +1,30 @@
+enable
+?
+cl?
+clock ?
+clock set ?
+clock set 15:00:00 ?
+clock set 15:00:00
+clock set 15:00:00?
+?
+c?
+co?
+cl?
+con
+conf
+configure terminal
+?
+exit
+show clock
+clock
+clock?
+clock?
+clock set?
+clock set 03:06:00 Sep 30 2025
+show clock
+cl?
+clock set 03:07:00 sep 30 2025
+show clock
+exit
+enable
+show running-config
