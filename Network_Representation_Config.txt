@@ -1,0 +1,8 @@
+ipconfig
+ping 10.3.0.1
+enable
+configure terminal
+interface Serial0/2/0
+no shutdown
+ip ?
+exit
