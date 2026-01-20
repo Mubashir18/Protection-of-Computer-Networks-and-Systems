@@ -65,4 +65,4 @@ To verify the setup in Packet Tracer, use the following:
 2. Clone this repository or download the `.pkt` file.
 3. Open the file to explore the configurations and test failover by deleting the link to the Active router.
 
-**Developed by:** [Your Name/GitHub Username]
+Developed by: Mubashir18
